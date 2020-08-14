@@ -1,0 +1,26 @@
+html {
+    background-color:#b9b4ff;
+}
+.container {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid #c1c1c1;
+    background-color: white;
+    color:#4c4c4c;
+    margin: 100px auto;
+    padding:10px 20px;
+    width: 300px;
+    border-radius:10px;
+    
+}
+
+.buddyName {
+    background-color: #00bcd4;
+    color: white;
+    padding: 3px 6px;
+    border-radius: 20px;
+}
+h1 {
+    color:#ffce3b;
+    text-align: center;
+    margin-top:0px;
+}
